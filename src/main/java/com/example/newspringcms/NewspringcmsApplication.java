@@ -12,6 +12,7 @@ public class NewspringcmsApplication {
         System.out.println("哈哈哈 真的可以了");
         //在github上修改
         //不提交可以吗？22222222
+        System.out.println("新分支");
     }
 
 }
