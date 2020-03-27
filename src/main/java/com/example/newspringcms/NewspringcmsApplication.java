@@ -10,6 +10,7 @@ public class NewspringcmsApplication {
         SpringApplication.run(NewspringcmsApplication.class, args);
         ///测试提交代码
         System.out.println("哈哈哈 真的可以了");
+        //在github上修改
     }
 
 }
